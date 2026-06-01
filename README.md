@@ -1,6 +1,6 @@
-# CodeAlpha - Grand Ritz Concierge Management Platform
+# CodeAlpha - Hotel Reservation
 
-A premium, enterprise-grade Java Graphical User Interface (GUI) application developed as part of the CodeAlpha Internship program. This software serves as an interactive property management system (PMS) and luxury concierge dashboard, enabling hospitality administrators to track room categories, manage real-time room inventories, process custom stay durations, and record booking statements with persistent data storage.
+A premium, enterprise-grade Java Graphical User Interface (GUI) application developed as part of the CodeAlpha Internship program. This software serves as an interactive property management system (PMS) and front-desk reservation dashboard, enabling hospitality administrators to track room categories, manage real-time room inventories, process custom stay durations, and record booking statements with persistent data storage.
 
 ## 🚀 Features
 * **Château Slate & Champagne Gold UI:** A tailored hospitality aesthetic featuring a warm matte slate base, polished gold highlights, soft sage indicators for vacancies, and crisp ivory typography.
